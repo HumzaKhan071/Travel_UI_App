@@ -13,7 +13,8 @@ class Destination {
      this.city,
     this.country,
    this.description,
-    this.activities,
+   this.activities,
+   
   });
 }
 
